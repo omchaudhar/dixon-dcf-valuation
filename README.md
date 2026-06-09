@@ -156,7 +156,7 @@ Current Market Price:              ₹11,848 ◄────
 | 🔵 Blue text | Hardcoded input — sourced directly from BSE/NSE filing |
 | ⚫ Black text | Formula — calculated from other cells, never manually entered |
 | 🟡 Yellow fill | Key assumption — change this cell to run scenarios |
-| 🔗 Green text | Cross-sheet formula link |
+| 🟢 Green text | Cross-sheet formula link |
 
 ---
 
@@ -165,7 +165,7 @@ Current Market Price:              ₹11,848 ◄────
 | File | Description |
 |---|---|
 | `Dixon_Revenue_Model.xlsx` | Full 8-sheet financial model |
-| `Dixon_Investment_Deck.pdf` | 4-slide equity research presentation |
+| `Dixon_Investment_Deck.pdf` | Equity research presentation |
 
 ---
 
@@ -183,5 +183,4 @@ Current Market Price:              ₹11,848 ◄────
 
 ---
 
-*Independent equity research project. For educational purposes only — not investment advice.*  
-*Analyst: Om Chaudhari &nbsp;|&nbsp; June 2026*
+
